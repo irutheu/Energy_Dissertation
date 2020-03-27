@@ -1,0 +1,29 @@
+Dissertation plan:
+march 21
+
+0) Preparations
+- Find good graphical editor for diagrams and figures
+- Talk to advisor and get some literature to quote on
+- Cooperate with fellow students
+- Skim through other people thesises to get some clues about proper structure
+- Find similar papers or works to get deeper understanding of the field
+
+1) Intro: Current problems in energy generation and consumption complex. 
+- Point out poor prediction process. Power stations are loaded based on old formulas. This can be solved with energy output prediction with sufficient amount of data.
+- Point out new ways of predicting amount of energy that will be consumed by end consumers such as households, factories etc.
+- Explain basis of uniting energy producers and energy consumers into single, solid system.
+- Also include Renewable energy sources (Hydro, wind, solar and so on) and accumulation of power by various means.
+
+2) Related works and current systems of energy production forecast:
+- I've seen some already, there must some information in previous papers i've published.
+- Ask my adviser for some materials or recommendations for further study.
+
+3) Ways to implement desired system
+- Python or any other programming language
+- Neural nets, regressions, decision trees, arimas and so on
+
+4) The system itself
+- Graphical illustration of the system with relations between parts
+- How the system works
+- Comparison between default uncoordinated system and implemented coordinated system
+- Table which contains comparison of results
