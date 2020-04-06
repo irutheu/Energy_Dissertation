@@ -27,3 +27,13 @@ march 21
 - How the system works
 - Comparison between default uncoordinated system and implemented coordinated system
 - Table which contains comparison of results
+
+5) Useful literature and links
+Meta knowledge:
+- Thesis structure https://nauchniestati.ru/blog/struktura-magisterskoy-dissertacii/
+
+Energy sector:
+- Energy development strategy of Russia https://minenergo.gov.ru/node/1026
+- Similar thesis http://economy-lib.com/sovershenstvovanie-sistemy-obespecheniya-ustoychivosti-energosnabzheniya-v-deyatelnosti-generiruyuschih-predpriyatiy
+- 
+
