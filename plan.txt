@@ -13,8 +13,16 @@ march 21
 - Point out new ways of predicting amount of energy that will be consumed by end consumers such as households, factories etc.
 - Explain basis of uniting energy producers and energy consumers into single, solid system.
 - Also include Renewable energy sources (Hydro, wind, solar and so on) and accumulation of power by various means.
+- Current problems and hardships in development of new energy systems:
+1) Most likely very expensive
+2) Requires whole new technology level over internet and old physical interfaces
+3) If this systems will be implemented, problem of infosec will be at whole new level, since all information will be carried over the internet.
+4) something else I missed
 
 2) Related works and current systems of energy production forecast:
+- Russian "Energynet"
+- Internet of Energy
+- Energy transition (especially in Germany and Switzerland)
 - I've seen some already, there must some information in previous papers i've published.
 - Ask my adviser for some materials or recommendations for further study.
 
