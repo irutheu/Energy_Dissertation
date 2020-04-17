@@ -1,6 +1,9 @@
 Dissertation plan:
 march 21
 
+Theme: Energy system optimization for isolated electrical systems with renewable energy sources.
+Synopsis: Energy consumptions is a time-series data which is forecasted by machine learning. We have traditional reliable energy sources with stable output such as fuel generators or bio generators. We also have unreliable energy sources such as solar and wind, output of those sources is also a time series which is forecasted by machine learning. In the end we have a system with reliable and unreliable generation for supplying energy consumption.
+
 0) Preparations
 - Find good graphical editor for diagrams and figures
 - Talk to advisor and get some literature to quote on
@@ -21,12 +24,19 @@ march 21
 
 2) Related works and current systems of energy production forecast:
 - Russian "Energynet"
-- Internet of Energy
-- Energy transition (especially in Germany and Switzerland)
+- Internet of Energy Technology
+- Energy transition movement? (especially in Germany and Switzerland)
+- Microgrids (siemens)
+- Modeling tools for microgrids - DER-CAM, EnergyPLAN (both from wiki on microgrids)
 - I've seen some already, there must some information in previous papers i've published.
 - Ask my adviser for some materials or recommendations for further study.
 
-3) Ways to implement desired system
+3) Equipment and knowledge necessary for implementing
+- Power meters installed at consumer buildings
+- DLMS/COSEM - open protocol for two-way data transmission in energy networks
+- Microgrid control from wiki
+- Energy generation from solar and wind is a time series
+- Energy consumption is also a time series
 - Python or any other programming language
 - Neural nets, regressions, decision trees, arimas and so on
 
