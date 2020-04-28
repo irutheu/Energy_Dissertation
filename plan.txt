@@ -4,6 +4,8 @@ march 21
 Theme: Energy system optimization for isolated electrical systems with renewable energy sources.
 Synopsis: Energy consumptions is a time-series data which is forecasted by machine learning. We have traditional reliable energy sources with stable output such as fuel generators or bio generators. We also have unreliable energy sources such as solar and wind, output of those sources is also a time series which is forecasted by machine learning. In the end we have a system with reliable and unreliable generation for supplying energy consumption.
 
+Great source of useful articles: Energy Management in Microgrids: A literature Review. This article even just 2 pages in is immensely useful.
+
 0) Preparations
 - Find good graphical editor for diagrams and figures
 - Talk to advisor and get some literature to quote on
