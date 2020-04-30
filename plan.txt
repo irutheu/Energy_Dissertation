@@ -6,6 +6,8 @@ Synopsis: Energy consumptions is a time-series data which is forecasted by machi
 
 Great source of useful articles: Energy Management in Microgrids: A literature Review. This article even just 2 pages in is immensely useful.
 
+A great way to write something: Choose topic down below, Find related papers/works, Read them, If it comes out good write it down.
+
 0) Preparations
 - Find good graphical editor for diagrams and figures
 - Talk to advisor and get some literature to quote on
